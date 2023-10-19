@@ -9,6 +9,6 @@ Read me
 - <a href="www.linkedin.com/in/shrey-singh-ind">
     <img src="https://img.shields.io/badge/Linkedin-shrey-blue">
   </a> &nbsp; 
- -![](https://komarev.com/ghpvc/?username=shrey1409&color=green)
+ - ![](https://komarev.com/ghpvc/?username=shrey1409&color=green)
 
     
