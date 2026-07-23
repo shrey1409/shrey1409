@@ -1,0 +1,301 @@
+engagement_id,individual_id,content_id,content_title,content_type,channel,engagement_ts,engagement_depth_pct,completed_flag
+ENG300000,IND100125,CNT-05,Scheduling Your First Service,Article,Email,2026-01-19,91,Y
+ENG300001,IND100144,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-27,51,N
+ENG300002,IND100121,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-02,6,N
+ENG300003,IND100094,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-03-25,65,N
+ENG300004,IND100028,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-28,91,Y
+ENG300005,IND100149,CNT-04,Trailering Basics,Video,Web,2026-02-14,99,Y
+ENG300006,IND100006,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-09,57,N
+ENG300007,IND100121,CNT-05,Scheduling Your First Service,Article,Email,2026-05-13,51,N
+ENG300008,IND100148,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-31,68,N
+ENG300009,IND100058,CNT-05,Scheduling Your First Service,Article,Email,2026-02-01,28,N
+ENG300010,IND100013,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-22,75,N
+ENG300011,IND100122,CNT-05,Scheduling Your First Service,Article,Email,2026-04-05,56,N
+ENG300012,IND100134,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-08,88,Y
+ENG300013,IND100097,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-11,80,Y
+ENG300014,IND100062,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-18,28,N
+ENG300015,IND100146,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-19,37,N
+ENG300016,IND100028,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-25,27,N
+ENG300017,IND100004,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-14,76,N
+ENG300018,IND100080,CNT-04,Trailering Basics,Video,Web,2026-03-15,82,Y
+ENG300019,IND100038,CNT-04,Trailering Basics,Video,Web,2026-04-10,53,N
+ENG300020,IND100052,CNT-04,Trailering Basics,Video,Web,2026-03-03,85,Y
+ENG300021,IND100128,CNT-04,Trailering Basics,Video,Web,2026-02-22,47,N
+ENG300022,IND100120,CNT-05,Scheduling Your First Service,Article,Email,2026-04-29,21,N
+ENG300023,IND100015,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-11,47,N
+ENG300024,IND100035,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-07,43,N
+ENG300025,IND100053,CNT-05,Scheduling Your First Service,Article,Email,2026-05-07,83,Y
+ENG300026,IND100083,CNT-05,Scheduling Your First Service,Article,Email,2026-04-26,47,N
+ENG300027,IND100122,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-14,57,N
+ENG300028,IND100096,CNT-05,Scheduling Your First Service,Article,Email,2026-05-07,31,N
+ENG300029,IND100044,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-05,79,N
+ENG300030,IND100136,CNT-04,Trailering Basics,Video,Web,2026-02-01,43,N
+ENG300031,IND100139,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-02-02,52,N
+ENG300032,IND100067,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-02-05,23,N
+ENG300033,IND100123,CNT-05,Scheduling Your First Service,Article,Email,2026-04-27,50,N
+ENG300034,IND100063,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-06-17,75,N
+ENG300035,IND100142,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-21,57,N
+ENG300036,IND100057,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-24,77,N
+ENG300037,IND100073,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-01-08,82,Y
+ENG300038,IND100053,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-21,100,Y
+ENG300039,IND100125,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-01,96,Y
+ENG300040,IND100122,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-01-20,40,N
+ENG300041,IND100143,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-09,35,N
+ENG300042,IND100070,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-02-15,63,N
+ENG300043,IND100031,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-20,16,N
+ENG300044,IND100139,CNT-05,Scheduling Your First Service,Article,Email,2026-05-20,95,Y
+ENG300045,IND100101,CNT-04,Trailering Basics,Video,Web,2026-05-25,76,N
+ENG300046,IND100037,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-02,41,N
+ENG300047,IND100010,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-08,69,N
+ENG300048,IND100020,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-21,73,N
+ENG300049,IND100113,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-02,77,N
+ENG300050,IND100065,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-25,32,N
+ENG300051,IND100122,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-20,67,N
+ENG300052,IND100051,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-09,59,N
+ENG300053,IND100069,CNT-05,Scheduling Your First Service,Article,Email,2026-02-19,84,Y
+ENG300054,IND100069,CNT-05,Scheduling Your First Service,Article,Email,2026-05-28,98,Y
+ENG300055,IND100027,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-02,73,N
+ENG300056,IND100061,CNT-05,Scheduling Your First Service,Article,Email,2026-03-25,55,N
+ENG300057,IND100012,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-18,16,N
+ENG300058,IND100135,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-14,53,N
+ENG300059,IND100059,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-09,75,N
+ENG300060,IND100025,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-17,29,N
+ENG300061,IND100084,CNT-04,Trailering Basics,Video,Web,2026-01-10,37,N
+ENG300062,IND100120,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-09,69,N
+ENG300063,IND100035,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-03-23,46,N
+ENG300064,IND100140,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-04-01,90,Y
+ENG300065,IND100104,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-17,86,Y
+ENG300066,IND100121,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-10,100,Y
+ENG300067,IND100051,CNT-04,Trailering Basics,Video,Web,2026-02-11,87,Y
+ENG300068,IND100082,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-01-22,31,N
+ENG300069,IND100015,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-21,89,Y
+ENG300070,IND100146,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-03-09,24,N
+ENG300071,IND100136,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-06-11,55,N
+ENG300072,IND100009,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-17,62,N
+ENG300073,IND100106,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-06-02,42,N
+ENG300074,IND100009,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-11,100,Y
+ENG300075,IND100126,CNT-04,Trailering Basics,Video,Web,2026-02-22,84,Y
+ENG300076,IND100074,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-15,68,N
+ENG300077,IND100002,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-03-25,94,Y
+ENG300078,IND100145,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-05,66,N
+ENG300079,IND100027,CNT-05,Scheduling Your First Service,Article,Email,2026-02-23,69,N
+ENG300080,IND100072,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-20,70,N
+ENG300081,IND100139,CNT-04,Trailering Basics,Video,Web,2026-01-19,45,N
+ENG300082,IND100126,CNT-05,Scheduling Your First Service,Article,Email,2026-05-04,18,N
+ENG300083,IND100129,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-14,1,N
+ENG300084,IND100069,CNT-04,Trailering Basics,Video,Web,2026-02-09,52,N
+ENG300085,IND100028,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-12,55,N
+ENG300086,IND100041,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-23,98,Y
+ENG300087,IND100117,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-26,75,N
+ENG300088,IND100065,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-14,75,N
+ENG300089,IND100047,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-18,69,N
+ENG300090,IND100086,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-15,28,N
+ENG300091,IND100145,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-17,86,Y
+ENG300092,IND100049,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-19,46,N
+ENG300093,IND100103,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-22,62,N
+ENG300094,IND100131,CNT-04,Trailering Basics,Video,Web,2026-02-14,50,N
+ENG300095,IND100022,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-05,100,Y
+ENG300096,IND100024,CNT-04,Trailering Basics,Video,Web,2026-03-26,44,N
+ENG300097,IND100035,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-08,49,N
+ENG300098,IND100082,CNT-04,Trailering Basics,Video,Web,2026-03-10,80,Y
+ENG300099,IND100001,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-11,55,N
+ENG300100,IND100098,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-27,64,N
+ENG300101,IND100114,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-06,73,N
+ENG300102,IND100084,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-21,60,N
+ENG300103,IND100149,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-11,52,N
+ENG300104,IND100146,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-11,52,N
+ENG300105,IND100066,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-23,100,Y
+ENG300106,IND100092,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-18,80,Y
+ENG300107,IND100060,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-09,47,N
+ENG300108,IND100030,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-02-17,24,N
+ENG300109,IND100078,CNT-04,Trailering Basics,Video,Web,2026-06-17,49,N
+ENG300110,IND100103,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-18,46,N
+ENG300111,IND100128,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-18,94,Y
+ENG300112,IND100079,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-21,80,Y
+ENG300113,IND100030,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-28,100,Y
+ENG300114,IND100075,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-07,87,Y
+ENG300115,IND100056,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-11,75,N
+ENG300116,IND100034,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-04,81,Y
+ENG300117,IND100039,CNT-04,Trailering Basics,Video,Web,2026-05-17,100,Y
+ENG300118,IND100095,CNT-04,Trailering Basics,Video,Web,2026-01-17,37,N
+ENG300119,IND100140,CNT-04,Trailering Basics,Video,Web,2026-06-20,35,N
+ENG300120,IND100137,CNT-04,Trailering Basics,Video,Web,2026-03-07,91,Y
+ENG300121,IND100055,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-27,48,N
+ENG300122,IND100020,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-06-12,44,N
+ENG300123,IND100114,CNT-05,Scheduling Your First Service,Article,Email,2026-06-23,76,N
+ENG300124,IND100092,CNT-05,Scheduling Your First Service,Article,Email,2026-05-06,66,N
+ENG300125,IND100144,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-24,48,N
+ENG300126,IND100015,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-05-29,70,N
+ENG300127,IND100129,CNT-05,Scheduling Your First Service,Article,Email,2026-04-19,77,N
+ENG300128,IND100146,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-15,75,N
+ENG300129,IND100038,CNT-05,Scheduling Your First Service,Article,Email,2026-06-09,73,N
+ENG300130,IND100083,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-19,71,N
+ENG300131,IND100113,CNT-05,Scheduling Your First Service,Article,Email,2026-04-20,82,Y
+ENG300132,IND100052,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-19,72,N
+ENG300133,IND100149,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-02-09,36,N
+ENG300134,IND100023,CNT-04,Trailering Basics,Video,Web,2026-01-13,50,N
+ENG300135,IND100114,CNT-05,Scheduling Your First Service,Article,Email,2026-03-02,66,N
+ENG300136,IND100116,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-05-10,32,N
+ENG300137,IND100131,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-26,32,N
+ENG300138,IND100116,CNT-04,Trailering Basics,Video,Web,2026-03-01,1,N
+ENG300139,IND100014,CNT-05,Scheduling Your First Service,Article,Email,2026-01-22,58,N
+ENG300140,IND100118,CNT-05,Scheduling Your First Service,Article,Email,2026-04-09,100,Y
+ENG300141,IND100078,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-20,36,N
+ENG300142,IND100005,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-06,23,N
+ENG300143,IND100065,CNT-04,Trailering Basics,Video,Web,2026-02-02,27,N
+ENG300144,IND100055,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-04-12,56,N
+ENG300145,IND100018,CNT-05,Scheduling Your First Service,Article,Email,2026-03-04,57,N
+ENG300146,IND100108,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-30,79,N
+ENG300147,IND100016,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-13,53,N
+ENG300148,IND100015,CNT-05,Scheduling Your First Service,Article,Email,2026-05-10,33,N
+ENG300149,IND100120,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-08,27,N
+ENG300150,IND100073,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-03-02,78,N
+ENG300151,IND100046,CNT-04,Trailering Basics,Video,Web,2026-01-22,53,N
+ENG300152,IND100107,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-21,60,N
+ENG300153,IND100097,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-02,29,N
+ENG300154,IND100096,CNT-04,Trailering Basics,Video,Web,2026-04-14,46,N
+ENG300155,IND100020,CNT-04,Trailering Basics,Video,Web,2026-06-03,79,N
+ENG300156,IND100138,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-09,37,N
+ENG300157,IND100089,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-06-25,63,N
+ENG300158,IND100045,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-24,65,N
+ENG300159,IND100100,CNT-05,Scheduling Your First Service,Article,Email,2026-03-14,71,N
+ENG300160,IND100032,CNT-05,Scheduling Your First Service,Article,Email,2026-04-15,76,N
+ENG300161,IND100057,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-19,49,N
+ENG300162,IND100005,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-05-25,85,Y
+ENG300163,IND100118,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-19,79,N
+ENG300164,IND100139,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-04,78,N
+ENG300165,IND100136,CNT-04,Trailering Basics,Video,Web,2026-01-04,79,N
+ENG300166,IND100058,CNT-04,Trailering Basics,Video,Web,2026-01-23,61,N
+ENG300167,IND100117,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-06-18,66,N
+ENG300168,IND100039,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-25,49,N
+ENG300169,IND100048,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-29,27,N
+ENG300170,IND100028,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-02-16,56,N
+ENG300171,IND100107,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-13,30,N
+ENG300172,IND100004,CNT-05,Scheduling Your First Service,Article,Email,2026-01-30,99,Y
+ENG300173,IND100052,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-10,19,N
+ENG300174,IND100025,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-02-23,1,N
+ENG300175,IND100008,CNT-05,Scheduling Your First Service,Article,Email,2026-03-01,51,N
+ENG300176,IND100012,CNT-04,Trailering Basics,Video,Web,2026-06-13,53,N
+ENG300177,IND100011,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-20,64,N
+ENG300178,IND100112,CNT-04,Trailering Basics,Video,Web,2026-04-30,17,N
+ENG300179,IND100138,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-22,63,N
+ENG300180,IND100014,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-01,100,Y
+ENG300181,IND100128,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-25,29,N
+ENG300182,IND100059,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-10,37,N
+ENG300183,IND100147,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-17,35,N
+ENG300184,IND100147,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-01-29,62,N
+ENG300185,IND100082,CNT-05,Scheduling Your First Service,Article,Email,2026-02-08,47,N
+ENG300186,IND100077,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-28,47,N
+ENG300187,IND100133,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-15,49,N
+ENG300188,IND100105,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-22,55,N
+ENG300189,IND100070,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-02-11,52,N
+ENG300190,IND100142,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-10,66,N
+ENG300191,IND100044,CNT-05,Scheduling Your First Service,Article,Email,2026-03-04,68,N
+ENG300192,IND100109,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-02-21,58,N
+ENG300193,IND100126,CNT-05,Scheduling Your First Service,Article,Email,2026-03-17,100,Y
+ENG300194,IND100088,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-03-14,34,N
+ENG300195,IND100097,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-22,38,N
+ENG300196,IND100081,CNT-05,Scheduling Your First Service,Article,Email,2026-04-22,89,Y
+ENG300197,IND100106,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-22,51,N
+ENG300198,IND100038,CNT-04,Trailering Basics,Video,Web,2026-06-01,100,Y
+ENG300199,IND100096,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-04,61,N
+ENG300200,IND100137,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-05,75,N
+ENG300201,IND100061,CNT-04,Trailering Basics,Video,Web,2026-04-29,46,N
+ENG300202,IND100076,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-25,39,N
+ENG300203,IND100036,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-08,96,Y
+ENG300204,IND100014,CNT-04,Trailering Basics,Video,Web,2026-02-01,49,N
+ENG300205,IND100105,CNT-05,Scheduling Your First Service,Article,Email,2026-05-12,33,N
+ENG300206,IND100142,CNT-04,Trailering Basics,Video,Web,2026-03-22,50,N
+ENG300207,IND100034,CNT-05,Scheduling Your First Service,Article,Email,2026-04-17,1,N
+ENG300208,IND100062,CNT-04,Trailering Basics,Video,Web,2026-06-20,48,N
+ENG300209,IND100052,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-03,82,Y
+ENG300210,IND100020,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-02-23,43,N
+ENG300211,IND100094,CNT-04,Trailering Basics,Video,Web,2026-01-10,50,N
+ENG300212,IND100137,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-15,100,Y
+ENG300213,IND100048,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-19,40,N
+ENG300214,IND100068,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-09,32,N
+ENG300215,IND100010,CNT-04,Trailering Basics,Video,Web,2026-05-01,23,N
+ENG300216,IND100048,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-02-08,67,N
+ENG300217,IND100143,CNT-05,Scheduling Your First Service,Article,Email,2026-02-01,95,Y
+ENG300218,IND100122,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-22,100,Y
+ENG300219,IND100085,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-03-19,60,N
+ENG300220,IND100003,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-13,28,N
+ENG300221,IND100048,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-04-04,80,Y
+ENG300222,IND100030,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-02-21,78,N
+ENG300223,IND100122,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-28,32,N
+ENG300224,IND100052,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-08,67,N
+ENG300225,IND100061,CNT-04,Trailering Basics,Video,Web,2026-03-21,65,N
+ENG300226,IND100082,CNT-05,Scheduling Your First Service,Article,Email,2026-01-16,92,Y
+ENG300227,IND100097,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-10,100,Y
+ENG300228,IND100136,CNT-04,Trailering Basics,Video,Web,2026-01-29,80,Y
+ENG300229,IND100091,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-21,1,N
+ENG300230,IND100066,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-01-01,13,N
+ENG300231,IND100131,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-02-10,48,N
+ENG300232,IND100119,CNT-04,Trailering Basics,Video,Web,2026-06-19,56,N
+ENG300233,IND100120,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-02-13,83,Y
+ENG300234,IND100052,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-02-12,52,N
+ENG300235,IND100080,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-25,48,N
+ENG300236,IND100011,CNT-04,Trailering Basics,Video,Web,2026-05-05,73,N
+ENG300237,IND100056,CNT-05,Scheduling Your First Service,Article,Email,2026-06-05,31,N
+ENG300238,IND100037,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-12,100,Y
+ENG300239,IND100066,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-31,80,Y
+ENG300240,IND100149,CNT-05,Scheduling Your First Service,Article,Email,2026-03-05,55,N
+ENG300241,IND100106,CNT-05,Scheduling Your First Service,Article,Email,2026-05-10,55,N
+ENG300242,IND100039,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-03-17,17,N
+ENG300243,IND100084,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-03,44,N
+ENG300244,IND100097,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-11,52,N
+ENG300245,IND100062,CNT-05,Scheduling Your First Service,Article,Email,2026-01-20,59,N
+ENG300246,IND100140,CNT-04,Trailering Basics,Video,Web,2026-03-03,100,Y
+ENG300247,IND100086,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-27,62,N
+ENG300248,IND100125,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-28,46,N
+ENG300249,IND100125,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-02-06,55,N
+ENG300250,IND100043,CNT-04,Trailering Basics,Video,Web,2026-02-08,41,N
+ENG300251,IND100090,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-07,56,N
+ENG300252,IND100035,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-18,41,N
+ENG300253,IND100139,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-02-03,62,N
+ENG300254,IND100047,CNT-04,Trailering Basics,Video,Web,2026-05-26,40,N
+ENG300255,IND100015,CNT-05,Scheduling Your First Service,Article,Email,2026-06-17,90,Y
+ENG300256,IND100008,CNT-05,Scheduling Your First Service,Article,Email,2026-05-30,57,N
+ENG300257,IND100012,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-02,9,N
+ENG300258,IND100105,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-03-17,71,N
+ENG300259,IND100059,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-05-22,100,Y
+ENG300260,IND100038,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-15,91,Y
+ENG300261,IND100055,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-05-25,30,N
+ENG300262,IND100116,CNT-05,Scheduling Your First Service,Article,Email,2026-03-02,93,Y
+ENG300263,IND100015,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-04-02,38,N
+ENG300264,IND100123,CNT-05,Scheduling Your First Service,Article,Email,2026-02-07,81,Y
+ENG300265,IND100124,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-06-15,69,N
+ENG300266,IND100001,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-01,36,N
+ENG300267,IND100141,CNT-05,Scheduling Your First Service,Article,Email,2026-01-04,100,Y
+ENG300268,IND100003,CNT-04,Trailering Basics,Video,Web,2026-04-05,70,N
+ENG300269,IND100135,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-12,51,N
+ENG300270,IND100070,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-06,66,N
+ENG300271,IND100073,CNT-05,Scheduling Your First Service,Article,Email,2026-04-01,72,N
+ENG300272,IND100128,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-04-16,41,N
+ENG300273,IND100110,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-22,23,N
+ENG300274,IND100027,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-24,16,N
+ENG300275,IND100134,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-04-27,53,N
+ENG300276,IND100061,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-15,74,N
+ENG300277,IND100134,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-02-01,100,Y
+ENG300278,IND100090,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-09,100,Y
+ENG300279,IND100101,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-05-13,55,N
+ENG300280,IND100095,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-06-09,25,N
+ENG300281,IND100117,CNT-04,Trailering Basics,Video,Web,2026-02-02,87,Y
+ENG300282,IND100062,CNT-05,Scheduling Your First Service,Article,Email,2026-01-01,60,N
+ENG300283,IND100057,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-04-02,11,N
+ENG300284,IND100020,CNT-03,myChevrolet App Setup Guide,Guide,Mobile App,2026-06-24,83,Y
+ENG300285,IND100008,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-24,55,N
+ENG300286,IND100103,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-05-11,91,Y
+ENG300287,IND100096,CNT-04,Trailering Basics,Video,Web,2026-02-26,45,N
+ENG300288,IND100121,CNT-05,Scheduling Your First Service,Article,Email,2026-06-18,63,N
+ENG300289,IND100002,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-01-17,63,N
+ENG300290,IND100043,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-03-25,63,N
+ENG300291,IND100127,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-04-05,1,N
+ENG300292,IND100084,CNT-04,Trailering Basics,Video,Web,2026-03-09,26,N
+ENG300293,IND100024,CNT-05,Scheduling Your First Service,Article,Email,2026-04-27,100,Y
+ENG300294,IND100010,CNT-05,Scheduling Your First Service,Article,Email,2026-01-27,84,Y
+ENG300295,IND100054,CNT-02,Connecting Your Hotspot,Article,Mobile App,2026-01-18,55,N
+ENG300296,IND100145,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-05-31,44,N
+ENG300297,IND100069,CNT-04,Trailering Basics,Video,Web,2026-05-10,100,Y
+ENG300298,IND100019,CNT-01,T1-2 First Drive Walkthrough,Video,Email,2026-02-14,1,N
+ENG300299,IND100071,CNT-06,Infotainment Quick Tips,Interactive,Web,2026-01-12,88,Y

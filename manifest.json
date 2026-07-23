@@ -1,0 +1,214 @@
+[
+  {
+    "table": "e3_vin_detail",
+    "fqn": "aftersales_prod.gold_enterprise_experience_engine_e3_gmna.e3_vin_detail",
+    "layer": "gold",
+    "rows": 180,
+    "columns": [
+      "vin",
+      "brand",
+      "model_name",
+      "model_year",
+      "model_trim",
+      "vehicle_type",
+      "body_style",
+      "vehicle_segment",
+      "vehicle_category",
+      "t1_2_program_flag",
+      "build_date"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "e3_indiv_detail",
+    "fqn": "aftersales_prod.gold_enterprise_experience_engine_e3_gmna.e3_indiv_detail",
+    "layer": "gold",
+    "rows": 150,
+    "columns": [
+      "individual_id",
+      "loyalty_status",
+      "loyalty_points",
+      "first_purchase_date",
+      "is_current_customer"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "vehicle_attributes",
+    "fqn": "marketing_prod.gold_customer_feature_store_gmna.vehicle_attributes",
+    "layer": "gold",
+    "rows": 180,
+    "columns": [
+      "vin",
+      "vehicle_mileage",
+      "vehicle_segment",
+      "body_style",
+      "vehicle_category",
+      "mileage_asof_date"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "vehicle_ownership",
+    "fqn": "sales_prod.gold_vehicle_ownership_gmna.vehicle_ownership",
+    "layer": "gold",
+    "rows": 180,
+    "columns": [
+      "ownership_id",
+      "individual_id",
+      "vin",
+      "ownership_status",
+      "ownership_sequence",
+      "ownership_start_date",
+      "ownership_end_date",
+      "purchase_type",
+      "dealer_id"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "survey_hub_inmoment_us_vw",
+    "fqn": "aftersales_prod.silver_enterprise_experience_engine_e3_gmna.survey_hub_inmoment_us_vw",
+    "layer": "silver",
+    "rows": 195,
+    "columns": [
+      "response_id",
+      "individual_id",
+      "vin",
+      "survey_type",
+      "survey_date",
+      "nps_score",
+      "nps_category",
+      "csat_score",
+      "verbatim_text",
+      "dealer_id",
+      "region",
+      "region_scope"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "survey_hub_inmoment_global_vw",
+    "fqn": "aftersales_prod.silver_enterprise_experience_engine_e3_gmna.survey_hub_inmoment_global_vw",
+    "layer": "silver",
+    "rows": 60,
+    "columns": [
+      "response_id",
+      "individual_id",
+      "vin",
+      "survey_type",
+      "survey_date",
+      "nps_score",
+      "nps_category",
+      "csat_score",
+      "verbatim_text",
+      "dealer_id",
+      "region",
+      "region_scope"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "acxiom_survived_individual_demographic",
+    "fqn": "customer_prod.silver_individual_gmna.acxiom_survived_individual_demographic",
+    "layer": "silver",
+    "rows": 150,
+    "columns": [
+      "individual_id",
+      "customer_age_group",
+      "age_range",
+      "household_income_band",
+      "is_current_customer",
+      "state"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "consolidated_customer",
+    "fqn": "customer_prod.silver_individual_gmna.consolidated_customer",
+    "layer": "silver",
+    "rows": 150,
+    "columns": [
+      "individual_id",
+      "region",
+      "gender_code",
+      "zip_code",
+      "num_children",
+      "children_flag"
+    ],
+    "schema_confirmed": true
+  },
+  {
+    "table": "get_help_case",
+    "fqn": "t1_2_dev.gold_cx.get_help_case",
+    "layer": "gold(proposed)",
+    "rows": 990,
+    "columns": [
+      "case_id",
+      "individual_id",
+      "vin",
+      "case_type",
+      "call_driver",
+      "channel",
+      "case_open_ts",
+      "case_close_ts",
+      "days_to_close",
+      "closed_within_24h",
+      "first_contact_resolution",
+      "csat_score",
+      "region",
+      "case_month"
+    ],
+    "schema_confirmed": false
+  },
+  {
+    "table": "content_engagement",
+    "fqn": "t1_2_dev.gold_cx.content_engagement",
+    "layer": "gold(proposed)",
+    "rows": 300,
+    "columns": [
+      "engagement_id",
+      "individual_id",
+      "content_id",
+      "content_title",
+      "content_type",
+      "channel",
+      "engagement_ts",
+      "engagement_depth_pct",
+      "completed_flag"
+    ],
+    "schema_confirmed": false
+  },
+  {
+    "table": "training_participation",
+    "fqn": "t1_2_dev.gold_cx.training_participation",
+    "layer": "gold(proposed)",
+    "rows": 75,
+    "columns": [
+      "participation_id",
+      "individual_id",
+      "dealer_id",
+      "training_id",
+      "training_name",
+      "training_date",
+      "completed_flag"
+    ],
+    "schema_confirmed": false
+  },
+  {
+    "table": "action_log",
+    "fqn": "t1_2_dev.gold_cx.action_log",
+    "layer": "gold(proposed)",
+    "rows": 11,
+    "columns": [
+      "action_id",
+      "action_name",
+      "case_type",
+      "action_owner",
+      "action_date",
+      "action_status",
+      "description"
+    ],
+    "schema_confirmed": false
+  }
+]

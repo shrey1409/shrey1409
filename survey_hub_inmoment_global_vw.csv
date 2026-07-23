@@ -1,0 +1,61 @@
+response_id,individual_id,vin,survey_type,survey_date,nps_score,nps_category,csat_score,verbatim_text,dealer_id,region,region_scope
+RSPGL700000,IND100089,1GC550940297592,Sales,2026-03-17,8,Passive,5,Vehicle is fine. Setup took longer than expected but got there.,DLR1069,Southwest,GLOBAL
+RSPGL700001,IND100019,1GC668497959209,Service,2026-06-25,6,Detractor,3,Had to replace the connectivity module twice. Nobody explained why.,DLR1105,Southwest,GLOBAL
+RSPGL700002,IND100003,1GC598632529184,Sales,2026-06-17,4,Detractor,4,Wifi drops constantly on the highway. Third call to support this month.,DLR1150,Southwest,GLOBAL
+RSPGL700003,IND100137,1GC534073093248,Service,2026-01-28,3,Detractor,2,Screen freezes when I use CarPlay. Dealer says it is a known issue.,DLR1180,West,GLOBAL
+RSPGL700004,IND100019,1GC668497959209,Sales,2026-01-13,9,Promoter,4,Truck has been flawless. The app connects instantly every time.,DLR1052,Southwest,GLOBAL
+RSPGL700005,IND100136,1GC962703291916,Sales,2026-06-10,10,Promoter,3,Service advisor called me proactively about the software update. Impressed.,DLR1143,Southeast,GLOBAL
+RSPGL700006,IND100084,1GC120440865820,Dealership,2026-02-28,9,Promoter,4,Service advisor called me proactively about the software update. Impressed.,DLR1011,Northeast,GLOBAL
+RSPGL700007,IND100105,1GC745201170242,Sales,2026-03-16,9,Promoter,4,Service advisor called me proactively about the software update. Impressed.,DLR1087,Southeast,GLOBAL
+RSPGL700008,IND100068,1GC127736051111,Service,2026-06-29,5,Detractor,3,Wifi drops constantly on the highway. Third call to support this month.,DLR1138,Midwest,GLOBAL
+RSPGL700009,IND100097,1GC178884927384,Dealership,2026-05-31,8,Passive,4,Service was completed on time. Nothing exceptional either way.,DLR1114,Southeast,GLOBAL
+RSPGL700010,IND100086,1GC750123415536,Dealership,2026-03-14,8,Passive,5,No complaints about the truck. The app is average.,DLR1069,Southwest,GLOBAL
+RSPGL700011,IND100118,1GC488883735797,Sales,2026-02-04,9,Promoter,3,Dealer walked me through every feature before I drove off. Excellent onboarding.,DLR1128,Northeast,GLOBAL
+RSPGL700012,IND100143,1GC614555247137,Sales,2026-04-23,8,Passive,3,No complaints about the truck. The app is average.,DLR1155,Southeast,GLOBAL
+RSPGL700013,IND100018,1GC844868054792,Dealership,2026-06-01,6,Detractor,2,Waited three weeks for a part. Zero communication from the dealer.,DLR1105,West,GLOBAL
+RSPGL700014,IND100099,1GC965707898093,Service,2026-05-03,3,Detractor,5,Screen freezes when I use CarPlay. Dealer says it is a known issue.,DLR1036,Northeast,GLOBAL
+RSPGL700015,IND100039,1GC702832595213,Sales,2026-06-11,9,Promoter,5,Truck has been flawless. The app connects instantly every time.,DLR1165,Midwest,GLOBAL
+RSPGL700016,IND100022,1GC330368581510,Service,2026-04-17,7,Passive,5,Vehicle is fine. Setup took longer than expected but got there.,DLR1167,Southeast,GLOBAL
+RSPGL700017,IND100005,1GC705016083735,Sales,2026-03-08,9,Promoter,5,Whole buying process took under two hours. No pressure at all.,DLR1103,Southwest,GLOBAL
+RSPGL700018,IND100059,1GC203077066182,Dealership,2026-01-10,5,Detractor,5,Wifi drops constantly on the highway. Third call to support this month.,DLR1032,Southwest,GLOBAL
+RSPGL700019,IND100067,1GC373555088256,Dealership,2026-03-10,10,Promoter,5,Whole buying process took under two hours. No pressure at all.,DLR1101,Northeast,GLOBAL
+RSPGL700020,IND100020,1GC361826054325,Sales,2026-01-20,7,Passive,3,Service was completed on time. Nothing exceptional either way.,DLR1171,West,GLOBAL
+RSPGL700021,IND100069,1GC493045650308,Service,2026-05-25,9,Promoter,3,Truck has been flawless. The app connects instantly every time.,DLR1160,Midwest,GLOBAL
+RSPGL700022,IND100033,1GC433413735431,Service,2026-03-14,2,Detractor,4,Wifi drops constantly on the highway. Third call to support this month.,DLR1186,West,GLOBAL
+RSPGL700023,IND100009,1GC791782742725,Service,2026-06-28,8,Passive,5,Vehicle is fine. Setup took longer than expected but got there.,DLR1110,West,GLOBAL
+RSPGL700024,IND100134,1GC631823942332,Dealership,2026-05-28,8,Passive,4,Vehicle is fine. Setup took longer than expected but got there.,DLR1125,Northeast,GLOBAL
+RSPGL700025,IND100122,1GC175999889025,Dealership,2026-03-31,10,Promoter,4,Service advisor called me proactively about the software update. Impressed.,DLR1165,Northeast,GLOBAL
+RSPGL700026,IND100002,1GC226224180098,Dealership,2026-01-10,10,Promoter,3,Whole buying process took under two hours. No pressure at all.,DLR1011,West,GLOBAL
+RSPGL700027,IND100095,1GC667254333806,Service,2026-06-08,9,Promoter,4,Whole buying process took under two hours. No pressure at all.,DLR1092,Northeast,GLOBAL
+RSPGL700028,IND100006,1GC353110405454,Dealership,2026-01-22,3,Detractor,3,Screen freezes when I use CarPlay. Dealer says it is a known issue.,DLR1063,Northeast,GLOBAL
+RSPGL700029,IND100000,1GC843662731774,Service,2026-01-04,5,Detractor,3,Screen freezes when I use CarPlay. Dealer says it is a known issue.,DLR1045,Midwest,GLOBAL
+RSPGL700030,IND100029,1GC773747217510,Service,2026-02-08,5,Detractor,5,Hotspot data will not share to my other devices. Support could not fix it.,DLR1161,Northeast,GLOBAL
+RSPGL700031,IND100066,1GC603286444670,Sales,2026-02-22,9,Promoter,4,Dealer walked me through every feature before I drove off. Excellent onboarding.,DLR1182,Midwest,GLOBAL
+RSPGL700032,IND100023,1GC942439213043,Dealership,2026-06-14,10,Promoter,3,Dealer walked me through every feature before I drove off. Excellent onboarding.,DLR1050,West,GLOBAL
+RSPGL700033,IND100113,1GC621297612047,Sales,2026-04-21,9,Promoter,5,Service advisor called me proactively about the software update. Impressed.,DLR1127,Southeast,GLOBAL
+RSPGL700034,IND100094,1GC371360880232,Service,2026-01-03,10,Promoter,3,Service advisor called me proactively about the software update. Impressed.,DLR1034,West,GLOBAL
+RSPGL700035,IND100140,1GC537992497753,Dealership,2026-03-01,7,Passive,4,Service was completed on time. Nothing exceptional either way.,DLR1002,Southeast,GLOBAL
+RSPGL700036,IND100056,1GC513024197984,Dealership,2026-04-02,8,Passive,5,No complaints about the truck. The app is average.,DLR1166,Southwest,GLOBAL
+RSPGL700037,IND100044,1GC849033821254,Sales,2026-06-09,8,Passive,5,Vehicle is fine. Setup took longer than expected but got there.,DLR1075,Southeast,GLOBAL
+RSPGL700038,IND100079,1GC805508388194,Sales,2026-02-01,7,Passive,3,Service was completed on time. Nothing exceptional either way.,DLR1110,Southwest,GLOBAL
+RSPGL700039,IND100097,1GC178884927384,Sales,2026-01-20,8,Passive,2,No complaints about the truck. The app is average.,DLR1128,Southeast,GLOBAL
+RSPGL700040,IND100058,1GC225817298314,Service,2026-02-21,9,Promoter,5,Truck has been flawless. The app connects instantly every time.,DLR1047,Northeast,GLOBAL
+RSPGL700041,IND100047,1GC359495293536,Service,2026-06-07,8,Passive,5,No complaints about the truck. The app is average.,DLR1006,West,GLOBAL
+RSPGL700042,IND100110,1GC510198660849,Service,2026-05-03,9,Promoter,4,Whole buying process took under two hours. No pressure at all.,DLR1135,Southwest,GLOBAL
+RSPGL700043,IND100108,1GC186751865938,Service,2026-03-27,7,Passive,5,Vehicle is fine. Setup took longer than expected but got there.,DLR1008,Southeast,GLOBAL
+RSPGL700044,IND100082,1GC832618346198,Dealership,2026-04-28,10,Promoter,4,Service advisor called me proactively about the software update. Impressed.,DLR1131,Northeast,GLOBAL
+RSPGL700045,IND100100,1GC917722621635,Sales,2026-03-27,9,Promoter,5,Service advisor called me proactively about the software update. Impressed.,DLR1165,Midwest,GLOBAL
+RSPGL700046,IND100028,1GC238860542860,Service,2026-04-22,9,Promoter,5,Service advisor called me proactively about the software update. Impressed.,DLR1185,Southwest,GLOBAL
+RSPGL700047,IND100022,1GC973628221954,Service,2026-03-10,10,Promoter,2,Hotspot works better than my home internet on job sites.,DLR1005,Southwest,GLOBAL
+RSPGL700048,IND100063,1GC788498971673,Dealership,2026-01-14,5,Detractor,4,Had to replace the connectivity module twice. Nobody explained why.,DLR1120,Southwest,GLOBAL
+RSPGL700049,IND100080,1GC697882186293,Dealership,2026-02-06,7,Passive,5,No complaints about the truck. The app is average.,DLR1033,Midwest,GLOBAL
+RSPGL700050,IND100015,1GC304514849606,Dealership,2026-03-14,9,Promoter,4,Service advisor called me proactively about the software update. Impressed.,DLR1156,Northeast,GLOBAL
+RSPGL700051,IND100117,1GC747516660355,Service,2026-05-28,4,Detractor,3,Screen freezes when I use CarPlay. Dealer says it is a known issue.,DLR1059,Northeast,GLOBAL
+RSPGL700052,IND100089,1GC550940297592,Dealership,2026-01-16,7,Passive,5,Service was completed on time. Nothing exceptional either way.,DLR1113,Southeast,GLOBAL
+RSPGL700053,IND100021,1GC563551416308,Sales,2026-05-31,7,Passive,5,No complaints about the truck. The app is average.,DLR1133,Midwest,GLOBAL
+RSPGL700054,IND100127,1GC230071769979,Dealership,2026-05-16,1,Detractor,4,Wifi drops constantly on the highway. Third call to support this month.,DLR1092,Midwest,GLOBAL
+RSPGL700055,IND100110,1GC510198660849,Service,2026-05-22,6,Detractor,3,Nobody showed me how to enroll the vehicle. Figured it out from YouTube.,DLR1133,Midwest,GLOBAL
+RSPGL700056,IND100054,1GC734648840762,Sales,2026-06-09,10,Promoter,2,Whole buying process took under two hours. No pressure at all.,DLR1062,Southwest,GLOBAL
+RSPGL700057,IND100139,1GC174456999930,Service,2026-01-25,6,Detractor,5,Hotspot data will not share to my other devices. Support could not fix it.,DLR1098,Southwest,GLOBAL
+RSPGL700058,IND100067,1GC373555088256,Dealership,2026-06-04,10,Promoter,4,Hotspot works better than my home internet on job sites.,DLR1070,Northeast,GLOBAL
+RSPGL700059,IND100007,1GC693480371222,Service,2026-03-05,10,Promoter,5,Service advisor called me proactively about the software update. Impressed.,DLR1045,West,GLOBAL
