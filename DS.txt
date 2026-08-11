@@ -1,0 +1,58 @@
+Data sources mentioned by Updiks
+
+Survey data (via the E3 "Survey Hub")
+Updiks described building a survey hub that ingests surveys from multiple sources into Databricks and runs predictive NPS / summarization on them. The individual survey feeds shown were:
+
+Qualtrics / XM Discover
+InMoment
+Medallia
+Reputation
+EV Charging survey
+Anniversary survey
+Compass Survey (Survey – Compass)
+Dealer Sales survey (Survey – Dealer Sales)
+Dealer Service survey (Survey – Dealer Service)
+COPPA survey (mentioned verbally as product-insight-rich)
+J.D. Power
+Social & External survey feeds
+
+Case management / customer interaction systems
+
+OneCRM (Case Details and Messaging) — Salesforce-based
+Siebel (Case Details)
+SPAC (Open Cases)
+Dealer Care
+Customer Care
+Chat / Case / Media interaction records
+
+Vehicle & service data (VIN-keyed)
+
+Repair Orders (ROs) / Open ROs
+Field Actions / OTA (over-the-air updates, recalls)
+Roadside
+DTC (Diagnostic Trouble Codes)
+Delivery status / delivery data
+Vehicle master data (VDDH – Vehicle), Dealer Master
+
+Connected vehicle & digital / product behavior
+
+Super Cruise (trips / usage)
+Charging Sessions (Charging Insights)
+Mobile App (usage details)
+Clickstream / website events
+Notifications
+In-vehicle app adoption, OnStar adoption
+
+Social / external listening
+
+Brandwatch (social media scraping — Reddit, technical forums, public posts)
+Social Media / Social Listening feeds
+
+Foundational / identity & internal
+
+E3 "Foundational Data Assets" layer (the unified trusted data foundation)
+Customer Data Hub (CDH) and the identity spine — GMUID (formerly the Amperity ID / customer recognition layer) used to join Customer ID to VIN
+Internal predictive models (e.g., Predictive/Predicted NPS, causal NPS models)
+OpenAI LLM (used across Emerging Topics, Outlier Detection, summarization)
+
+The join key: Updiks emphasized everything is unified around VIN and Customer ID (GMUID) — that's how these otherwise-separate sources are tied into one "journey spine."
